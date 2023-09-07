@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=virat07" alt="virat07" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/bharatgupta07" target="blank"><img src="https://img.shields.io/twitter/follow/bharatgupta07?logo=twitter&style=for-the-badge" alt="bharatgupta07" /></a> </p>
-
 - 🔭 I’m currently working on **app for cultural awareness**
 
 - 🌱 I’m currently learning **react native with tailwind css**
